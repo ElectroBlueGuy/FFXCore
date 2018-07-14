@@ -8,11 +8,15 @@
         "minecraft:golden_axe",
         "minecraft:iron_axe",
         "minecraft:stone_axe",
-        "minecraft:wooden_axe"
+        "minecraft:wooden_axe",
+        "tconstruct:hatchet"
       ],
       "blocklist": [
         "betterwithmods:blood_leaves/0",
         "betterwithmods:blood_log/0",
+        "harvestcraft:pamcinnamon/0",
+        "harvestcraft:pammaple/0",
+        "harvestcraft:pampaperbark/0",
         "minecraft:fence",
         "minecraft:leaves",
         "minecraft:leaves2",
@@ -53,7 +57,8 @@
         "rustic:leaves_apple/14",
         "rustic:leaves_apple/15",
         "rustic:log/0",
-        "rustic:log/1"
+        "rustic:log/1",
+        "tconstruct:slime_leaves"
       ]
     },
     "hoe": {
@@ -64,7 +69,8 @@
         "minecraft:golden_hoe",
         "minecraft:iron_hoe",
         "minecraft:stone_hoe",
-        "minecraft:wooden_hoe"
+        "minecraft:wooden_hoe",
+        "tconstruct:mattock"
       ],
       "blocklist": [
         "minecraft:carrots",
@@ -82,7 +88,8 @@
         "minecraft:golden_pickaxe",
         "minecraft:iron_pickaxe",
         "minecraft:stone_pickaxe",
-        "minecraft:wooden_pickaxe"
+        "minecraft:wooden_pickaxe",
+        "tconstruct:pickaxe"
       ],
       "blocklist": [
         "dungeontactics:ore_nethergold/0",
@@ -109,6 +116,8 @@
         "pinklysheep:pigmanosaurus_poo_ore/0",
         "pinklysheep:pigmanosaurus_poo_overworld_ore/0",
         "pinklysheep:pigmanosaurus_poo_soulsand_ore/0",
+        "tconstruct:ore/0",
+        "tconstruct:ore/1",
         "vanillafoodpantry:natron_ore/0",
         "vanillafoodpantry:rock_salt_ore/0",
         "vanillafoodpantry:rock_salt_ore_nether/0",
@@ -162,7 +171,8 @@
         "rustic:leaves_apple/12",
         "rustic:leaves_apple/13",
         "rustic:leaves_apple/14",
-        "rustic:leaves_apple/15"
+        "rustic:leaves_apple/15",
+        "tconstruct:slime_leaves"
       ]
     },
     "shovel": {
@@ -173,7 +183,9 @@
         "minecraft:golden_shovel",
         "minecraft:iron_shovel",
         "minecraft:stone_shovel",
-        "minecraft:wooden_shovel"
+        "minecraft:wooden_shovel",
+        "tconstruct:mattock",
+        "tconstruct:shovel"
       ],
       "blocklist": [
         "minecraft:clay",
